@@ -1,4 +1,4 @@
-## <div align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="48px" height="48px" alt="hi"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=405BC6&width=600&lines=Hi+there!+I'm+Viviana🌱" alt="Typing SVG" /></a></div>
+## <div align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="48px" height="48px" alt="hi"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=35&pause=1000&color=405BC6&width=600&lines=Hi+there!+I'm+Viviana🌱" alt="Typing SVG" /></a></div>
 <!--
 **VivianaMolina/VivianaMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
