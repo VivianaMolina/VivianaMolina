@@ -3,7 +3,10 @@
     <a style="margin-left: 10px;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=100&size=30&pause=1000&width=435&lines=Hi+there!+I'm+Viviana" alt="Typing SVG"/></a>
 </div>
 
-![GitHub followers](img1.png)
+<div align="center">
+  <img src="img1.png" alt="custom image">
+</div>
+
 
 <h2>About me ✍️</h2>
 
