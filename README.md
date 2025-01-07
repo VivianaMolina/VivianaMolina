@@ -1,12 +1,9 @@
+![Viviana Github Banner](img/Github-ReadMe-Banner.png)
+
 <div style="display: flex;">
-    <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" height="35px" alt="hi">
-    <a style="margin-left: 10px;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=100&size=30&pause=1000&width=435&lines=Hi+there!+I'm+Viviana" alt="Typing SVG"/></a>
+    <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="hi">
+    <a style="margin-left: 10px;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=100&size=25&pause=1000&width=435&lines=Hi+there!+I'm+Viviana" alt="Typing SVG"/></a>
 </div>
-
-<div align="center">
-  <img src="img1.png" alt="custom image">
-</div>
-
 
 <h2>About me ✍️</h2>
 
@@ -16,14 +13,13 @@
 - 📈 I am currently diving into Data Science to master cool analytical tools and techniques. My goal? To turn insights into powerful decisions that make a real impact.
 - 📫 How to reach me: viviana.a.molina@gmail.com
 
-<br>
 
-![GitHub followers](https://img.shields.io/github/followers/VivianaMolina?style=for-the-badge&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/VivianaMolina?style=for-the-badge&logo=GitHub)
+
+<!-- ![GitHub followers](https://img.shields.io/github/followers/VivianaMolina?style=for-the-badge&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/VivianaMolina?style=for-the-badge&logo=GitHub) -->
 
 
 <h2>🔨 Technologies & Tools</h2>
-<br>
 
 ![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto&labelColor=yellow)
 ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&color=white)
@@ -41,3 +37,6 @@
 ![Static Badge](https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&labelColor=black)
+
+<!-- Another way to add icons from https://skillicons.dev/
+<img style="text-align: center;" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,nodejs,postgresql,mysql,python,flask,vscode,github&perline=4"> -->
