@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h2>About me ✍️</h2>
+<h2 align="center">About me ✍️</h2>
 
 <p align="center">
   <strong>💻 Software Engineer | 🌐 Full Stack Developer | 🤖 Machine Learning Enthusiast</strong>
@@ -34,7 +34,7 @@
 | **Web Development & APIs** | ![Static Badge](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jQuery&labelColor=black) ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=node.js&labelColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&color=white) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&color=blue) ![Static Badge](https://img.shields.io/badge/BOOTSTRAP-%237952B3?style=for-the-badge&logo=bootstrap&labelColor=white) |
 | **Databases & Querying** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/IBM-DB2-green?style=for-the-badge&labelColor=black) |
 | **Big Data & Cloud Platforms** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
-| **Tools & Technologies** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Static Badge](https://img.shields.io/badge/Kubernetes) ![Static Badge](https://img.shields.io/badge/Kubernetes-badge?style=for-the-badge&logo=kubernetes&labelColor=%23e4e8e9&color=%23e4e8e9) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| **Tools & Technologies** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Static Badge](https://img.shields.io/badge/Kubernetes-badge?style=for-the-badge&logo=kubernetes&labelColor=%23e4e8e9&color=%23e4e8e9) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 
 ---
