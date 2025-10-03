@@ -1,6 +1,6 @@
 <h2 align="left">👋 Hi there! I'm Viviana Molina</h2>
 
-<h2>- Who I Am</h2>
+<h2>Who I Am</h2>
 
 <p align="left">
 I'm a Full Stack software Developer with 15+ years in technology. I love learning and working with people to build better solutions together. 
@@ -22,7 +22,7 @@ Over the past two years, I've been learning and experimenting with different tec
 
 <h2>End-to-End ML in Action</h2>
 
-[OMDb-API](https://github.com/VivianaMolina/My-Java-Projects/tree/main/OMDb-API)
+[clinical-text-similarity](https://github.com/VivianaMolina/clinical-text-similarity)
 
 [Shopping-Cart](https://github.com/VivianaMolina/My-Java-Projects/tree/main/java-shopping-cart)
 
