@@ -24,7 +24,7 @@ Over the past two years, I've been learning and experimenting with different tec
 
 • Applied traditional NLP techniques for text representation and analysis: [clinical-text-similarity](https://github.com/VivianaMolina/clinical-text-similarity)
 
-• This project is a web application that classifies Iris flower species using a trained machine learning model. Built with Python and Flask, it provides an interactive interface where users can input flower measurements and receive predictions along with a visual display of the corresponding species: [iris-Predictor-UI](https://github.com/VivianaMolina/IrisPredictorUI)
+• This project is a web application that classifies Iris flower species using a trained machine learning model. Built with Python and Flask, it exposes an API and includes a user-friendly interface created with HTML and CSS. Users can input flower measurements and receive predictions along with a visual display of the corresponding species (Setosa, Versicolor, or Virginica).: [iris-Predictor-UI](https://github.com/VivianaMolina/IrisPredictorUI)
 
 • [Starwars-Api](https://github.com/VivianaMolina/My-Java-Projects/tree/main/starwars-api)
 
