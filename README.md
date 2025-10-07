@@ -22,11 +22,11 @@ Over the past two years, I've been learning and experimenting with different tec
 
 <h2>End-to-End ML in Action</h2>
 
-• Applied traditional NLP techniques for text representation and analysis: [clinical-text-similarity](https://github.com/VivianaMolina/clinical-text-similarity)
+• [clinical-text-similarity](https://github.com/VivianaMolina/clinical-text-similarity): Applied traditional NLP techniques for text representation and analysis.
 
-• This project is a web application that classifies Iris flower species using a trained machine learning model. Built with Python and Flask, it exposes an API and includes a user-friendly interface created with HTML and CSS. Users can input flower measurements and receive predictions along with a visual display of the corresponding species (Setosa, Versicolor, or Virginica).: [iris-Predictor-UI](https://github.com/VivianaMolina/IrisPredictorUI)
+• [iris-Predictor-UI]: This project is a web application that classifies Iris flower species using a trained machine learning model. Built with Python and Flask, it exposes an API and includes a user-friendly interface created with HTML and CSS. Users can input flower measurements and receive predictions along with a visual display of the corresponding species (Setosa, Versicolor, or Virginica).(https://github.com/VivianaMolina/IrisPredictorUI)
 
-• [Starwars-Api](https://github.com/VivianaMolina/My-Java-Projects/tree/main/starwars-api)
+• [breast-cancer-api](https://github.com/VivianaMolina/breast-cancer-api: This project demonstrates the full lifecycle of a machine learning application, from a trained model to a containerized, deployable API endpoint. It focuses on Breast Cancer Classification, providing a clear example of how to operationalize an ML model in a production-like environment.
 
 </p>
 
